@@ -1,0 +1,17 @@
+body{
+    background-image: url(/Imagens/broken-noise.png);
+    background-repeat: repeat;
+}
+.cl-h1{
+  color: #bebfb8;
+  background-color: #510273;
+  font-family: "Coiny", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 60px;
+  padding: 0.1px;
+  border-radius: 25px;
+}
+p{
+    text-align: center;
+}
