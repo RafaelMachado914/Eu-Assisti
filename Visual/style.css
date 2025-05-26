@@ -15,3 +15,8 @@ body{
 p{
     text-align: center;
 }
+.cl-img-roxo{
+  border: 7px solid;
+  border-image: linear-gradient(to right,#510273, rgb(88, 35, 211));
+  border-image-slice: 1;
+}
