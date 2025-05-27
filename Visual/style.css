@@ -17,6 +17,12 @@ p{
 }
 .cl-img-roxo{
   border: 7px solid;
-  border-image: linear-gradient(to right,#510273, rgb(88, 35, 211));
+  border-image: linear-gradient(to right,#510273, #510273);
   border-image-slice: 1;
+  text-align: center
+}
+.cl-p-link{
+  color: #510273;
+  font-size: 20px;
+  font-family: "Coiny", system-ui ;
 }
