@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="./Imagens/Captura de tela 2025-05-26 222043.png" alt="Imagem do site no estado atual">
+<img src="./Imagens/Captura de tela 2025-05-29 193217.png" alt="Imagem do site no estado atual">
 
 > Este é um site de criticas, analises e indicações de filmes, estou desenvolvendo esta pagina para organizar minhas reviews dos filmes que assisto.
 
@@ -15,7 +15,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 - [x] Definir as cores principais do site e o modo como os filmes serão apresentados
-- [ ] Separar os elementos e distribuir na pagina principal do site
+- [x] Separar os elementos e distribuir na pagina principal do site
 - [ ] Escrever as criticas e rewiews em uma pagina propria para cada uma
 - [ ] Aplicar o estilo visual (feito 100% usando css)
 - [ ] Testar os links e as paginas, verificar possiveis erros.
