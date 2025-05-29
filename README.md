@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="./Imagens/Captura de tela 2025-05-29 193217.png" alt="Imagem do site no estado atual">
+<img src="./Imagens/Captura de tela 2025-05-29 193542.png" alt="Imagem do site no estado atual">
 
 > Este é um site de criticas, analises e indicações de filmes, estou desenvolvendo esta pagina para organizar minhas reviews dos filmes que assisto.
 
