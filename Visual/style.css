@@ -1,6 +1,7 @@
 body{
     background-image: url(/Imagens/broken-noise.png);
     background-repeat: repeat;
+    margin: 0;
 }
 .cl-h1{
   color: #bebfb8;
@@ -11,6 +12,7 @@ body{
   font-size: 60px;
   padding: 0.1px;
   border-radius: 25px;
+  margin: 0px, 0px,0px,0px;
 }
 p{
     text-align: center;
@@ -26,3 +28,57 @@ p{
   font-size: 20px;
   font-family: "Coiny", system-ui ;
 }
+a{
+ display: inline-block; 
+    transition: transform 0.3s ease;
+    text-decoration: none;
+    color: #510273;
+}
+a:hover {
+  transform: translateY(-15px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+}
+a:hover {
+    transform: scale(1.1);
+  }
+  button {
+      padding: 8px 16px;
+      font-size: 16px;
+      border: 1px solid #bebfb8;
+      border-left: none;
+      background-color: #510273;
+      color: #bebfb8;
+      border-radius: 25px;
+      cursor: pointer;
+      border: solid black;
+  }
+  input[type="search"] {
+    background-color: #510273;
+      color: #000000;
+      padding: 8px;
+      font-size: 16px;
+      width: 300px;
+      border: solid black;
+      border-radius: 25px;
+    }
+    .search-bar {
+      display: flex;
+      margin-top: 50px;
+      display: block;
+      margin: 0px,0px,0p,500px;
+      justify-content: flex-end;
+      overflow: hidden;
+      padding: 0px 80px;
+      display: flex;
+      justify-content: flex-end;}
+      
+      .carousel-container {
+      position: relative;
+      max-width: 600px;
+      margin: 50px auto;
+      overflow: hidden;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      
+    }
+    
