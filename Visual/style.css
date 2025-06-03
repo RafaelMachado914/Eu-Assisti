@@ -5,7 +5,9 @@ body{
 }
 .cl-h1{
   color: #bebfb8;
+  text-align: center;
   background-color: #510273;
+  height: 190px;
   font-family: "Coiny", system-ui;
   font-weight: 400;
   font-style: normal;
@@ -80,5 +82,17 @@ a:hover {
       border-radius: 10px;
       box-shadow: 0 4px 10px rgba(0,0,0,0.1);
       
+    }
+  .cl-img-roxo-R{
+  position: absolute;
+  border: 7px solid;
+  border-image: linear-gradient(to right,#510273, #510273);
+  border-image-slice: 1;
+  text-align: center;
+  left: 300px;
+  margin-top: 70px;
+    }
+    .cl-inline{
+      display: inline;
     }
     
